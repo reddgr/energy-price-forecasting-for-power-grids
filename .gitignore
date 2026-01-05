@@ -21,8 +21,9 @@ __pycache__/
 *.pickle
 *.png
 # Windows URL shortcuts ##
-./urls
+urls/
 *Day-Ahead Electricity Price Dataset*
+*co-simulation*
 
 # Distribution / packaging
 .Python
