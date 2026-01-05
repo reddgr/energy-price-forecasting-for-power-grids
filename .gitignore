@@ -21,7 +21,7 @@ __pycache__/
 *.pickle
 *.png
 # Windows URL shortcuts ##
-/urls
+./urls
 
 # Distribution / packaging
 .Python
