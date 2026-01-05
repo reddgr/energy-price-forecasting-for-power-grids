@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# OTHER FILES
-*invite letter*
-
 # DATA
 *.pdf
 *.csv
@@ -24,7 +21,7 @@ __pycache__/
 *.pickle
 *.png
 # Windows URL shortcuts
-*.url
+urls/
 
 # Distribution / packaging
 .Python
