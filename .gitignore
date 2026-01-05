@@ -23,6 +23,8 @@ __pycache__/
 *.pkl
 *.pickle
 *.png
+# Windows URL shortcuts
+*.url
 
 # Distribution / packaging
 .Python
